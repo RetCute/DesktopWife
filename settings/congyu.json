@@ -1,0 +1,9 @@
+{
+  "name": "从雨",
+  "author": "Retrocal",
+  "folder": "congyu",
+  "icon": "icon.ico",
+  "index": "act1.png",
+  "actions": ["act1.png", "act2.png", "act3.png", "act4.png", "act5.png", "act6.png"],
+  "delay": 1000
+}

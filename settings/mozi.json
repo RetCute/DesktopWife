@@ -1,0 +1,11 @@
+{
+  "name": "茉子",
+  "author": "Retrocal",
+  "folder": "mozi",
+  "icon": "icon.ico",
+  "index": "act1.png",
+  "actions": ["act1.png", "act2.png", "act3.png", "act4.png", "act5.png", "act6.png"],
+  "delay": 1000,
+  "length": 150,
+  "width": 100
+}
